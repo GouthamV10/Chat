@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.swp
+
+# IDE folders
+.vscode/
+.idea/
+
+# Optional build artifacts (if any)
+dist/
+build/
+`
